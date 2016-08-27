@@ -1,5 +1,3 @@
-# bug: If filename contains space, we're fucked
-
 findimagedupes -R *.jpg > "out.txt"
 
 ct=0;
